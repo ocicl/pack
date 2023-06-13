@@ -1,0 +1,10 @@
+* pack
+
+Python struct hack in Common Lisp written by Death
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/soemraws/pack.git   |
+| commit  | e5ee0c6  |
+| systems | pack |
+|---------+-------------------------------------------|
+
